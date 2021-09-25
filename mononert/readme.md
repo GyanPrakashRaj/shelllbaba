@@ -39,5 +39,6 @@ git push --all origin
 git push --tags origin
 ```
 # Copyright
-  -All right reserved to 'https://github.com/GyanPrakashRaj/shelllbaba.git'
-  -Kindly ask before any changes
+- Kindly ASK before copy or any other changes.
+- All right reserved 'https://github.com/GyanPrakashRaj/shelllbaba.git'.
+
