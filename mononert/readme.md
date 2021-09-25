@@ -1,8 +1,8 @@
-# To create a monorepo.
-
+# To create a mononert or a monorepo.
+                           'https://github.com/GyanPrakashRaj/shelllbaba.git'
 - Make a file containing the git URLs of the repos you want to
   combine. These can be paths to bare repos (ideally created with `git
-  clone --mirror`) or `git@github.com:` URLs. This file should be
+  clone --mir`) or `git@github.com:` URLs. This file should be
   named `something.repos` where `something` is the name of the new
   monorepo you want to create.
 
@@ -38,3 +38,6 @@ Then to push everything:
 git push --all origin
 git push --tags origin
 ```
+# Copyright
+  All right reserved to 'https://github.com/GyanPrakashRaj/shelllbaba.git'
+  Kindly ask before any changes
