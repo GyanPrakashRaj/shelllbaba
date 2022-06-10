@@ -2,11 +2,6 @@
 
 declare -A a
 
-# find me here to https://github.com/GyanPrakashRaj/shellBABA
-# d - depth
-# l = length
-# r = row
-# c = column
 
 f() {
     local d=$1 l=$2 r=$3 c=$4
